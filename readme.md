@@ -7,6 +7,9 @@ ACC Config Manager is a desktop application for managing Assetto Corsa Competizi
 Configs are organized by season and week, making it easy to manage race-by-race settings across a full league calendar. You can push and pull configs directly to/from your server, preview changes before transferring, and keep a complete local history of every configuration.
 
 ---
+## Installing
+
+The .msi installer should work fine in Win 11. If you are running Win 10, you may want to use the .exe installer.
 
 ## First Launch: Setting Your Storage Path
 
@@ -134,3 +137,4 @@ You can inspect files on your server without pulling them.
 - **Search and filter** -- Use the search bar in the browser to find configs by name.
 - **Keyboard navigation** -- Arrow keys work in context menus and browser lists.
 - **Encoding** -- The app automatically handles ACC's UTF-16 LE file encoding. No manual conversion needed.
+
